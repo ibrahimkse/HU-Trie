@@ -1,0 +1,70 @@
+"chonge" was added
+"choo" was added
+"chori" was added
+"chonge" was updated
+"ataki" was added
+"ate" was added
+"athvithar" was added
+"athyolar" was added
+"haj" was added
+"hake" was added
+"qaf" was added
+"qazer" was added
+"vafi" was added
+"vafikh" was added
+"valshe" was added
+"vos" was added
+"vov" was added
+"yor" was added
+"haj" already exist
+"eve" was added
+"ewe" was added
+"ate" already exist
+-ataki(first)
+-ate(first)
+-athvithar(sound)
+-athyolar(birth)
+-chonge(solid)
+-choo(pika)
+-chori(eighty)
+-eve(tail)
+-ewe(olive)
+-haj(strong)
+-hake(name)
+-qaf(question)
+-qazer(apple)
+-vafi(lamb)
+-vafikh(wool)
+-valshe(north)
+-vos(no)
+-vov(weapon)
+-yor(million)
+"not enough Dothraki word"
+"The English equivalent is solid"
+"incorrect Dothraki word"
+"incorrect Dothraki word"
+"not enough Dothraki word"
+"incorrect Dothraki word"
+"valshe" deletion is successful
+"athyolar" deletion is successful
+"dosh" was added
+"fiez" was added
+-ataki(first)
+-ate(first)
+-athvithar(sound)
+-chonge(solid)
+-choo(pika)
+-chori(eighty)
+-dosh(council)
+-eve(tail)
+-ewe(olive)
+-fiez(rope)
+-haj(strong)
+-hake(name)
+-qaf(question)
+-qazer(apple)
+-vafi(lamb)
+-vafikh(wool)
+-vos(no)
+-vov(weapon)
+-yor(million)
